@@ -1,8 +1,8 @@
-# How to get bounds of the WPF GridControl
+# How to Get Bounds of the WPF GridControl?
 
-This example demonstrates how to get bounds of the [WPF GridControl](https://help.syncfusion.com/wpf/gridcontrol/overview).
+This example demonstrates how to get bounds of the [WPF GridControl](https://www.syncfusion.com/wpf-controls/excel-like-grid).
 
-`GridControl` does not have built-in property to get it’s bounds. Please use any one of the following suggestions to get the grid bounds.
+`GridControl` does not have built-in property to get it’s bounds. Please use any one of the following `GridControl` suggestions to get the grid bounds.
 
 ### Suggestion 1
 
